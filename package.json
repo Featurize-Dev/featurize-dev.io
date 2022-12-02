@@ -1,0 +1,8 @@
+{
+    "name": "featurize-dev.io",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "watch": "tailwindcss -i ./input.css -o ./css/site.css --watch"
+    }
+}
