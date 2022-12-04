@@ -814,6 +814,10 @@ video {
   margin-right: 2.5rem;
 }
 
+.ml-2{
+  margin-left: 0.5rem;
+}
+
 .block{
   display: block;
 }
@@ -1030,6 +1034,10 @@ video {
   resize: both;
 }
 
+.flex-row{
+  flex-direction: row;
+}
+
 .flex-wrap{
   flex-wrap: wrap;
 }
@@ -1241,6 +1249,11 @@ video {
 .bg-\[\#D64937\]{
   --tw-bg-opacity: 1;
   background-color: rgb(214 73 55 / var(--tw-bg-opacity));
+}
+
+.bg-slate-900{
+  --tw-bg-opacity: 1;
+  background-color: rgb(15 23 42 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-20{
